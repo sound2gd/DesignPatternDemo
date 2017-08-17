@@ -21,3 +21,5 @@
 - Netflix Hystrix
 - javax.swing.Action
 
+参考:
+[java-design-pattern/command](http://java-design-patterns.com/patterns/command/)
