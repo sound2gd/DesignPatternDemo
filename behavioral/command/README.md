@@ -19,7 +19,7 @@
 实例:
 - java.lang.Runnable
 - Netflix Hystrix
-- javax.swing.Action
+- javax.swing.com.sound2gd.mediator.Action
 
 参考:
 [java-design-pattern/command](http://java-design-patterns.com/patterns/command/)
